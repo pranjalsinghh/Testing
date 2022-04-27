@@ -3,13 +3,13 @@ pipeline{
     stages{
         stage ('Testing'){
             steps{
-                echo 'PRANJAL SINGH'
+                echo 'DEVOPS'
                 
             }
         }
         stage ('Build'){
             steps{
-                echo 'E19CSE401'
+                echo '3'
                 
             }
             
